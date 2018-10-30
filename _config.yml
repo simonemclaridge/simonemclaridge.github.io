@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
-author:
-description:
-url:
+title: Simone Claridge Blog
+email: simonec.023@gmail.com
+author: Simone Claridge
+description: Portfolio blog.  
+url: "simonemclaridge.github.io"
 
 # Build settings
 permalink: :title/
