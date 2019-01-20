@@ -1,11 +1,1 @@
-# Site settings
-title: Simone Claridge Blog
-email: simonec.023@gmail.com
-author: Simone Claridge
-description: Portfolio blog.  
-url: "simonemclaridge.github.io"
-
-# Build settings
-permalink: :title/
-sass:
-  sass_dir: css
+name: My Jekyll Website
