@@ -95,6 +95,10 @@ footer{
 	text-align: center;
 }
 
+footer p, footer h2{
+	color:#DEE5E5;
+}
+
 .contact-info a{
 	padding: 10px;
 	display: inline-block;
